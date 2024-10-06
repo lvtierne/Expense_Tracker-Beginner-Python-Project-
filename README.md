@@ -72,3 +72,19 @@ python main.py
     - Select option 1.
 
 ## Error Handling
+
+- The application includes basic error handling to ensure smooth user experience:
+    - Invalid inputs for categories and amounts are handled gracefully.
+    - Users are prompted to enter valid options when incorrect input is detected.
+
+## Future Enhancements
+- Implement additional features such as:
+    - Expense summaries over specific time periods.
+    - Exporting expenses to CSV.
+    - Adding a graphical user interface (GUI).
+
+## License
+- This project is open-source and available under the MIT License.
+```sql
+Feel free to modify any sections as needed, especially the **Example** and **Installation** sections to fit your specific instructions or preferences!
+```
