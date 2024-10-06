@@ -20,11 +20,15 @@ By building this project, you'll improve your understanding of Python while crea
 - **Edit Expense**: Modify existing expenses based on user selection.
 - **Data Persistence**: Expenses are saved to a `expenses.json` file for easy access across sessions.
 
+---
+
 ## Technologies Used
 
 - Python 3.x
 - JSON for data storage
 - Command-line interface (CLI)
+
+---
 
 ## Project Structure
 expense_tracker/ 
@@ -32,6 +36,8 @@ expense_tracker/
 ├── main.py # Main application logic 
 ├── expense_manager.py # Handles expense-related functionalities 
 └── file_handler.py # Manages saving and loading expenses to/from file
+
+---
 
 ## Getting Started
 
@@ -82,6 +88,8 @@ python main.py
     - Expense summaries over specific time periods.
     - Exporting expenses to CSV.
     - Adding a graphical user interface (GUI).
+
+---
 
 ## License
 - This project is open-source and available under the MIT License.
