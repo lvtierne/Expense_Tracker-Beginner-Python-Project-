@@ -31,11 +31,15 @@ By building this project, you'll improve your understanding of Python while crea
 ---
 
 ## Project Structure
-expense_tracker/ 
-│ 
-├── main.py # Main application logic 
-├── expense_manager.py # Handles expense-related functionalities 
-└── file_handler.py # Manages saving and loading expenses to/from file
+```bash
+python_projects/
+├── expense_tracker/
+│   ├── main.py # Main application logic 
+│   ├── expense_manager.py # Handles expense-related functionalities 
+│   ├── file_handler.py # Manages saving and loading expenses to/from file
+│   └── README.md
+└── (other python projects, if any)
+```
 
 ---
 
